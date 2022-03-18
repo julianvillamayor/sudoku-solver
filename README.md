@@ -1,7 +1,7 @@
 # sudoku-solver
 Sudoku solver by backtracking algorithm
 
-![image](https://user-images.githubusercontent.com/79546898/159029065-eef29960-ff89-48a6-bcdc-9e2ab9dc6abb.png)
+![](https://user-images.githubusercontent.com/79546898/159029065-eef29960-ff89-48a6-bcdc-9e2ab9dc6abb.png =250x250)
 
 
 As definied by Wikipedia in https://en.wikipedia.org/wiki/Sudoku_solving_algorithms
